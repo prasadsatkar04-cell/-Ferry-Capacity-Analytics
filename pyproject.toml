@@ -1,0 +1,10 @@
+[project]
+name = "ferry-capacity-analytics"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "numpy",
+    "plotly"
+]
